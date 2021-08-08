@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+font-size: 15x;
+}
+.page_container{
+padding: 45px;
+}
+.sedans {
+background-color: hsl(31, 77%, 52%);
+border-radius: 15px 15px 0px 0px;
+padding: 30px;
+}
+.suvs{
+background-color: darkCyan;
+padding: 30px;
+}
+.luxury{
+background-color: hsl(179, 100%,13%);
+border-radius: 0px 0px 15px 15px;
+padding: 30px;
+}
+p{
+color: hsla(0, 0%, 100%, 0.75);
+font-size: 15px;
+margin-button: 30px;
+line-height: 1.5;
+font-family: 'Lexend Deca','san-self';
+}
+h2{
+color: hsl(0, 0%, 95%);
+margin-button: 20px;
+}
+.icon{
+margin-button: 30px;
+}
+.btn{
+background-color: hsl(0,0%,95%);
+padding: 10px 20px;
+border: 2px solid white;
+border-radius: 30px;
+cursor: pointer;
+taransition: 0.5;
+}
+.btn:hover{
+background-color: transparent;
+color: white;
+}
+@media (min-width: 992px){
+.page_container{
+display: flex;
+align-items: center;
+justify-content: center;
+min-height: 100vh;
+max-width: 900px;
+margin: auto;
+}
+.sedans {
+border-radius: 15px 0px 0px 15px;
+}
+.luxury{
+border-radius: 0px 15px 15px 0px;
+}
+}
+
+
+
+ouTube :-
+https://youtube.com/ManishNirmal
+-->
+px
+15px 0px; } } YouTube :- https://youtube.com/ManishNirmal -->
+
+<!--
+Visual Code Mobile
+Developed By Manish Nirmal
+App Available on Play Store :-
+https://play.google.com/store/apps/details?id=lk.visual.code.mobile
+YouTube :-
+https://youtube.com/ManishNirmal
+-->
